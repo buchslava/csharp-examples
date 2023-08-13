@@ -1,0 +1,14 @@
+/Users/slava/Desktop/projects11/csharp-examples/Parents/obj/Debug/net7.0/Parents.GeneratedMSBuildEditorConfig.editorconfig
+/Users/slava/Desktop/projects11/csharp-examples/Parents/obj/Debug/net7.0/Parents.AssemblyInfoInputs.cache
+/Users/slava/Desktop/projects11/csharp-examples/Parents/obj/Debug/net7.0/Parents.AssemblyInfo.cs
+/Users/slava/Desktop/projects11/csharp-examples/Parents/obj/Debug/net7.0/Parents.csproj.CoreCompileInputs.cache
+/Users/slava/Desktop/projects11/csharp-examples/Parents/bin/Debug/net7.0/Parents
+/Users/slava/Desktop/projects11/csharp-examples/Parents/bin/Debug/net7.0/Parents.deps.json
+/Users/slava/Desktop/projects11/csharp-examples/Parents/bin/Debug/net7.0/Parents.runtimeconfig.json
+/Users/slava/Desktop/projects11/csharp-examples/Parents/bin/Debug/net7.0/Parents.dll
+/Users/slava/Desktop/projects11/csharp-examples/Parents/bin/Debug/net7.0/Parents.pdb
+/Users/slava/Desktop/projects11/csharp-examples/Parents/obj/Debug/net7.0/Parents.dll
+/Users/slava/Desktop/projects11/csharp-examples/Parents/obj/Debug/net7.0/refint/Parents.dll
+/Users/slava/Desktop/projects11/csharp-examples/Parents/obj/Debug/net7.0/Parents.pdb
+/Users/slava/Desktop/projects11/csharp-examples/Parents/obj/Debug/net7.0/Parents.genruntimeconfig.cache
+/Users/slava/Desktop/projects11/csharp-examples/Parents/obj/Debug/net7.0/ref/Parents.dll

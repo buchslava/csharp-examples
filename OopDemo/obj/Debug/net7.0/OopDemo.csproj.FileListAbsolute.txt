@@ -1,0 +1,14 @@
+/Users/slava/Desktop/projects11/csharp-examples/OopDemo/obj/Debug/net7.0/OopDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/slava/Desktop/projects11/csharp-examples/OopDemo/obj/Debug/net7.0/OopDemo.AssemblyInfoInputs.cache
+/Users/slava/Desktop/projects11/csharp-examples/OopDemo/obj/Debug/net7.0/OopDemo.AssemblyInfo.cs
+/Users/slava/Desktop/projects11/csharp-examples/OopDemo/obj/Debug/net7.0/OopDemo.csproj.CoreCompileInputs.cache
+/Users/slava/Desktop/projects11/csharp-examples/OopDemo/bin/Debug/net7.0/OopDemo
+/Users/slava/Desktop/projects11/csharp-examples/OopDemo/bin/Debug/net7.0/OopDemo.deps.json
+/Users/slava/Desktop/projects11/csharp-examples/OopDemo/bin/Debug/net7.0/OopDemo.runtimeconfig.json
+/Users/slava/Desktop/projects11/csharp-examples/OopDemo/bin/Debug/net7.0/OopDemo.dll
+/Users/slava/Desktop/projects11/csharp-examples/OopDemo/bin/Debug/net7.0/OopDemo.pdb
+/Users/slava/Desktop/projects11/csharp-examples/OopDemo/obj/Debug/net7.0/OopDemo.dll
+/Users/slava/Desktop/projects11/csharp-examples/OopDemo/obj/Debug/net7.0/refint/OopDemo.dll
+/Users/slava/Desktop/projects11/csharp-examples/OopDemo/obj/Debug/net7.0/OopDemo.pdb
+/Users/slava/Desktop/projects11/csharp-examples/OopDemo/obj/Debug/net7.0/OopDemo.genruntimeconfig.cache
+/Users/slava/Desktop/projects11/csharp-examples/OopDemo/obj/Debug/net7.0/ref/OopDemo.dll

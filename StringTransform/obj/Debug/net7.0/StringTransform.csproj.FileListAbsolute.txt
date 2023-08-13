@@ -1,0 +1,14 @@
+/Users/slava/Desktop/projects11/csharp-examples/StringTransform/bin/Debug/net7.0/StringTransform
+/Users/slava/Desktop/projects11/csharp-examples/StringTransform/bin/Debug/net7.0/StringTransform.deps.json
+/Users/slava/Desktop/projects11/csharp-examples/StringTransform/bin/Debug/net7.0/StringTransform.runtimeconfig.json
+/Users/slava/Desktop/projects11/csharp-examples/StringTransform/bin/Debug/net7.0/StringTransform.dll
+/Users/slava/Desktop/projects11/csharp-examples/StringTransform/bin/Debug/net7.0/StringTransform.pdb
+/Users/slava/Desktop/projects11/csharp-examples/StringTransform/obj/Debug/net7.0/StringTransform.GeneratedMSBuildEditorConfig.editorconfig
+/Users/slava/Desktop/projects11/csharp-examples/StringTransform/obj/Debug/net7.0/StringTransform.AssemblyInfoInputs.cache
+/Users/slava/Desktop/projects11/csharp-examples/StringTransform/obj/Debug/net7.0/StringTransform.AssemblyInfo.cs
+/Users/slava/Desktop/projects11/csharp-examples/StringTransform/obj/Debug/net7.0/StringTransform.csproj.CoreCompileInputs.cache
+/Users/slava/Desktop/projects11/csharp-examples/StringTransform/obj/Debug/net7.0/StringTransform.dll
+/Users/slava/Desktop/projects11/csharp-examples/StringTransform/obj/Debug/net7.0/refint/StringTransform.dll
+/Users/slava/Desktop/projects11/csharp-examples/StringTransform/obj/Debug/net7.0/StringTransform.pdb
+/Users/slava/Desktop/projects11/csharp-examples/StringTransform/obj/Debug/net7.0/StringTransform.genruntimeconfig.cache
+/Users/slava/Desktop/projects11/csharp-examples/StringTransform/obj/Debug/net7.0/ref/StringTransform.dll
